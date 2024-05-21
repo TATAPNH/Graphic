@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1716302204 source:c:\users\dmitry\desktop\kashin_laba_3\laba3\main.c
+	<windows.h>
+	<gl/gl.h>
+	<string.h>
+	"../stb-master/stb_easy_font.h"
+	<math.h>
+	"../stb-master/stb_image.h"
+	<float.h>
+
+1674047754 c:\users\dmitry\desktop\kashin_laba_3\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674047754 c:\users\dmitry\desktop\kashin_laba_3\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
