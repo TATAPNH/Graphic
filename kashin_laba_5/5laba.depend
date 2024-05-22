@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1716382767 source:c:\users\dmitry\desktop\kashin_laba_5\5laba\main.c
-	<windows.h>
-	<gl/gl.h>
-	<math.h>
-
